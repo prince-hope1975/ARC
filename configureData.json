@@ -1,0 +1,56 @@
+[
+  {
+    "assetId": 151873304,
+    "metadata": {
+      "description": "Simple data",
+      "standard": "arc69",
+      "properties": {
+        "Body": "Yellow",
+        "Tattoo": "Classic",
+        "Beak": "Pink",
+        "Clothing": "None",
+        "Neck": "None",
+        "Mouth": "Dwight",
+        "Earring": "None",
+        "Eyes": "Kurts",
+        "Hat": "Cornrows"
+      }
+    }
+  },
+  {
+    "assetId": 154617555,
+    "metadata": {
+      "description": "Simple data",
+      "standard": "arc69",
+      "properties": {
+        "Body": "Yellow",
+        "Tattoo": "Grey",
+        "Beak": "None",
+        "Clothing": "None",
+        "Neck": "Red Polo",
+        "Mouth": "None",
+        "Earring": "Cigar",
+        "Eyes": "Punk",
+        "Hat": "Scratch"
+      }
+    }
+  },
+  {
+    "assetId": 151877349,
+    "metadata": {
+      "description": "Simple data",
+      "standard": "arc69",
+      "properties": {
+        "Body": "Pink Spin",
+        "Tattoo": "Leopard",
+        "Beak": "None",
+        "Clothing": "None",
+        "Neck": "Classic MNGO",
+        "Mouth": "None",
+        "Earring": "Fresh Catch",
+        "Eyes": "Eyepatch",
+        "Hat": "Paper Plane"
+      }
+    }
+  }
+]

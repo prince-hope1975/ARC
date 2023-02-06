@@ -1,0 +1,21 @@
+{
+  "name": "arc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@randlabs/myalgo-connect": "^1.4.2",
+    "@reach-sh/stdlib": "^0.1.13-rc.0",
+    "algosdk": "^1.24.1",
+    "axios": "^1.2.2",
+    "base-path-converter": "^1.0.2",
+    "dotenv": "^16.0.3",
+    "got": "^12.5.3",
+    "zod": "^3.20.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "tslib": "^2.5.0"
+  }
+}
